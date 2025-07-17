@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Scroll</string>
+    <string name="accessibility_service_description">
+        Volume Button Scroll Service\n\n
+        This service allows you to scroll vertically in any app using your phone\'s volume buttons.\n\n
+        • Volume Up: Scroll up (previous content)\n
+        • Volume Down: Scroll down (next content)\n\n
+        Perfect for reading webtoons, comics, and long articles!\n\n
+        The service only works when enabled and does not collect any personal data.
+    </string>
+</resources>
