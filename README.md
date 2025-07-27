@@ -7,7 +7,6 @@ Ever wish you could scroll with your phone’s volume buttons? Volume Scroll mak
 - Adjustable scroll distance
 - Quick on/off toggle
 - Subtle on-screen indicator
-- Click sound feedback
 
 ![WhatsApp Image 2025-07-17 at 12 04 53_65c45f85](https://github.com/user-attachments/assets/672ec828-c27f-4a92-bf76-6e227bce72dd)
 ![WhatsApp Image 2025-07-17 at 12 04 52_1b3b47ca](https://github.com/user-attachments/assets/e4401287-48d6-4d84-8d2a-fbdd7205449b)
