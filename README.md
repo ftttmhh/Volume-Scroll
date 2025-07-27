@@ -9,11 +9,14 @@ Ever wish you could scroll with your phone’s volume buttons? Volume Scroll mak
 - Subtle on-screen indicator
 - Click sound feedback
 
-![WhatsApp Image 2025-07-17 at 12 04 53_65c45f85](https://github.com/user-attachments/assets/52206f4a-13d3-44cd-b567-f5588d0a591c)
+![WhatsApp Image 2025-07-17 at 12 04 53_65c45f85](https://github.com/user-attachments/assets/0ae05367-ee64-4f45-bec5-7dafa68d1fcb)
 
-![WhatsApp Image 2025-07-17 at 12 04 52_1b3b47ca](https://github.com/user-attachments/assets/989ee909-f3a4-4e90-aacf-e518db585900)
 
-![WhatsApp Image 2025-07-17 at 12 04 51_8f569fd2](https://github.com/user-attachments/assets/e18c27e0-7756-4cba-afaa-dc6eeb7e2329)
+![WhatsApp Image 2025-07-17 at 12 04 52_1b3b47ca](https://github.com/user-attachments/assets/d4ff11a8-d7eb-462a-9167-cfe8617bb072)
+
+
+![WhatsApp Image 2025-07-17 at 12 04 51_8f569fd2](https://github.com/user-attachments/assets/cd13ed05-acb6-444e-8ab4-dc2af9eb7bec)
+
 
 
 ## Get Started
